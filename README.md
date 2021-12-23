@@ -1,5 +1,5 @@
 
-  <h2> Hi there, I am Rajib👋 </h2>
+  <h2> Hi there, I'm Rajib👋 </h2>
 I'm a self-motivated passionate AI practioner from India<br /><br />
 
 
