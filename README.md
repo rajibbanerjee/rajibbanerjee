@@ -1,4 +1,4 @@
-
+![Tux, the Linux mascot](/assets/Banner.jpg)
 > ### Hi there, I am Rajib👋
 
 
