@@ -11,7 +11,7 @@ I'm a self-motivated passionate AI practioner from India<br /><br />
      🌱 Currently learning <b>Data Science</b> from <b>IIT Madras</b> <br />
      👯 I’m looking to collaborate with other content contributors <br />
      ❤️ I love writing python, and building experiments on different datasets <br />
-     💬 Ask me about machine learning <a href="https://github.com/rajibbanerjee/issues">Here</a><br />
+     💬 Ask me about machine learning <a href="https://github.com/rajibbanerjee/rajibbanerjee/issues">Here</a><br />
      ⚡ Fun fact: ...<br />
  </p>
  <br />
