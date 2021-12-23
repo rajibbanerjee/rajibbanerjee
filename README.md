@@ -1,8 +1,20 @@
-![Tux, the Linux mascot](/assets/Banner.jpg)
-> ### Hi there, I am Rajib👋
+
+  <h2> Hi there, I am Rajib👋 </h2>
+I'm a self-motivated passionate AI practioner from India<br /><br />
 
 
 
+ 
+ <h3 align="left">About me👋 </h3>
+ <p align="left">
+     🔭 I’m currently working on various **AWS cloud services** <br />
+     🌱 Currently learning **Data Science** from **IIT Madras** <br />
+     👯 I’m looking to collaborate with other content contributors <br />
+     ❤️ I love writing python, and building experiments on different datasets <br />
+     💬 Ask me about machine learning <a href="https://github.com/rajibbanerjee/issues">Here</a>
+     ⚡ Fun fact: ...<br />
+
+</p>
 
 
 
@@ -27,46 +39,6 @@
 
 
 
-
- <p align="left">
- 
-> ### 🔭 I’m currently working on various **AWS cloud services**.
-> Also extracting information which helps business to identify the potential cause, and possible strategies.
-> 
-> This involves
-> 
-> - Building **batch and streaming data pipeline**
-> - Monitoring statistics
-> - Designing workflows
-> - Generating insights
-> 
-
-
- 
-> ### 🌱 Currently learning **Data Science** from **IIT Madras**
-> Successfully achieved the first milestone **Data Science Foundation**.
-> 
-> Mastered the three major pilars associated with **Data Science, AI/ML**.
-> 
-> - Linear Algebra
-> - Statistics
-> - Theory of Optimization
-> *Everything* is going according to **plan**.
-> 
-
- 
-
-
-> ### 👯 I’m looking to collaborate on some of the concepts 
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
