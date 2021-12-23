@@ -33,7 +33,16 @@ I'm a self-motivated passionate AI practioner from India<br /><br />
  <br />
  <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/rajibbanerjee2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajibbanerjee2011" height="30" width="40" /></a>
-<a href="https://fb.com/rajibbanerjee2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajibbanerjee2011" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajibbnerjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajibbanerjee2011" height="30" width="40" /></a> <a href="https://www.facebook.com/rajib.banerjee.54966/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajibbanerjee2011" height="30" width="40" /></a> <a href="https://github.com/rajibbanerjee" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="rajibbanerjee" height="30" width="70" /></a>
+
+
+
+
+
+
+
+
+
+
 </p>
 
