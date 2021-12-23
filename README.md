@@ -7,14 +7,17 @@ I'm a self-motivated passionate AI practioner from India<br /><br />
  
  <h3 align="left">About me👋 </h3>
  <p align="left">
-     🔭 I’m currently working on various **AWS cloud services** <br />
-     🌱 Currently learning **Data Science** from **IIT Madras** <br />
+     🔭 I’m currently working on various <b>AWS cloud services</b> <br />
+     🌱 Currently learning <b>Data Science</b> from <b>IIT Madras</b> <br />
      👯 I’m looking to collaborate with other content contributors <br />
      ❤️ I love writing python, and building experiments on different datasets <br />
-     💬 Ask me about machine learning <a href="https://github.com/rajibbanerjee/issues">Here</a>
+     💬 Ask me about machine learning <a href="https://github.com/rajibbanerjee/issues">Here</a><br />
      ⚡ Fun fact: ...<br />
-
-</p>
+ </p>
+ <br />
+ <br />
+ <br />
+ <br />
 
 
 
